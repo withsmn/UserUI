@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClassWorkNine</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="bio">Bio</string>
+    <string name="submit">Submit</string>
+    <string name="follow">Follow</string>
+    <string name="biodata">BioData</string>
+    <string name="_29photos">29 Photos</string>
+    <string name="_21following">21 Following</string>
+    <string name="_29_followers">29 Followers</string>
+</resources>
